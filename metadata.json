@@ -1,0 +1,5 @@
+{
+  "name": "OSI Enquiry Management Dashboard",
+  "description": "An admin dashboard for Oxford Software Institute to manage student enquiries efficiently. It allows adding, viewing, and tracking enquiries, with daily follow-up reminders.",
+  "requestFramePermissions": []
+}
